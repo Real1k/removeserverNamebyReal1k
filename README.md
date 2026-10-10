@@ -1,9 +1,3 @@
-На Русском:                  
-Мод разрешено включать в модпаки только в оригинальном виде: без изменения файлов и с сохранением исходного названия. Распространение измененных, модифицированных или перепакованных версий под авторством (От Real1k) строго запрещено.
-
-In English:  
-This mod may only be included in modpacks in its original form: without any file modifications and with its original name preserved. Distributing modified, altered, or repacked versions under the branding/authorship (By Real1k) is strictly prohibited.
-
 _________________________________________________________________________________________
 
 RU: При включении мода в модпак обязательно указывайте активную ссылку на официальную страницу проекта.
